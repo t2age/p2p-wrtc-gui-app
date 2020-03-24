@@ -35,13 +35,13 @@ This is the very first WebRTC tuto, in GUI Application version
   
 6. P2P Walk Talk (arecord)  
   
----  
+  
 Above series of 6 tutos are part of the Webelive Tutorials, which are focused on communication, but, they depart a little bit from the previous ones, because on the present 6, the subject of CODING, also, became an important subject for the tutorials. In other words, the subject of CODING is also a small part and goal of the tutorial itself.  
   
 The CODING portion of the present 6 tutos are centered around JavaScript and Electron platform, and how powerful can be apps that uses the full power of the Operating System.  
   
-By interacting with files and invoking apps, Electron Framework add full O.S. capabilities to the WebRTC Data Channel, together with Graphical User Interface as easy as HTML...  
----  
+By interacting with files and invoking apps, Electron Framework add full O.S. capabilities to the WebRTC Data Channel, together with Graphical User Interface as easy as HTML.  
+  
   
 All tutos are based on following Tutorials:  
 	WebRTC Easy Power  

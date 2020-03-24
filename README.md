@@ -48,6 +48,10 @@ All tutos are based on following Tutorials:
 	Electron Basic Tutorial  
   
 Howto about Electron Framework GUI can be found on the Electron Basic Tutorial.  
+https://github.com/t2age/webrtc-easy-power-sync  
+  
 Howto WebRTC Connection can be found on the WebRTC Easy Power Tutorial.  
+https://github.com/t2age/electron-helloworld
   
   
+.
